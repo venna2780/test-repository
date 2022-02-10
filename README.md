@@ -2,6 +2,6 @@
 this is my first repository
 
 this is new edit in directly on git 
- the new line is add 
- the 2 more lines are added
- 
+ the new line is added
+
+this is the second line
